@@ -69,32 +69,28 @@ There are 130 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|7||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -113,17 +109,16 @@ There are 130 **ommitted** fragments!
 |10.|__front__|1||
 |11.|__g__|649| @__ref__ (649) : char:EOLhyphen (550), char:punc (33), char:dtristar (2), char:cmbAbbrStroke (57), char:EOLunhyphen (5), char:V (2)|
 |12.|__gap__|130| @__reason__ (130) : illegible (128), duplicate (2)  •  @__resp__ (128) : #PDCC (128)  •  @__extent__ (130) : 1 letter (74), 1 span (8), 2 letters (19), 1 page (2), 1 word (25), 4 letters (1), 3 letters (1)|
-|13.|__group__|1||
-|14.|__head__|49||
-|15.|__hi__|463| @__rend__ (11) : sup (11)|
-|16.|__l__|31||
-|17.|__lg__|3||
-|18.|__note__|69| @__n__ (69) : * (69)  •  @__place__ (69) : margin (69)|
-|19.|__p__|125||
-|20.|__pb__|92| @__facs__ (92) : tcp:16493:1 (2), tcp:16493:2 (2), tcp:16493:3 (2), tcp:16493:4 (2), tcp:16493:5 (2), tcp:16493:6 (2), tcp:16493:7 (2), tcp:16493:8 (2), tcp:16493:9 (2), tcp:16493:10 (2), tcp:16493:11 (2), tcp:16493:12 (2), tcp:16493:13 (2), tcp:16493:14 (2), tcp:16493:15 (2), tcp:16493:16 (2), tcp:16493:17 (2), tcp:16493:18 (2), tcp:16493:19 (2), tcp:16493:20 (2), tcp:16493:21 (2), tcp:16493:22 (2), tcp:16493:23 (2), tcp:16493:24 (2), tcp:16493:25 (2), tcp:16493:26 (2), tcp:16493:27 (2), tcp:16493:28 (2), tcp:16493:29 (2), tcp:16493:30 (2), tcp:16493:31 (2), tcp:16493:32 (2), tcp:16493:33 (2), tcp:16493:34 (2), tcp:16493:35 (2), tcp:16493:36 (2), tcp:16493:37 (2), tcp:16493:38 (2), tcp:16493:39 (2), tcp:16493:40 (2), tcp:16493:41 (2), tcp:16493:42 (2), tcp:16493:43 (2), tcp:16493:44 (2), tcp:16493:45 (2), tcp:16493:46 (2)  •  @__rendition__ (3) : simple:additions (3)|
-|21.|__postscript__|1||
-|22.|__q__|5||
-|23.|__seg__|3| @__rend__ (3) : decorInit (3)|
-|24.|__signed__|2||
-|25.|__text__|2| @__xml:lang__ (2) : eng (0)|
-|26.|__trailer__|1||
+|13.|__head__|49||
+|14.|__hi__|463| @__rend__ (11) : sup (11)|
+|15.|__l__|31||
+|16.|__lg__|3||
+|17.|__note__|69| @__n__ (69) : * (69)  •  @__place__ (69) : margin (69)|
+|18.|__p__|125||
+|19.|__pb__|92| @__facs__ (92) : tcp:16493:1 (2), tcp:16493:2 (2), tcp:16493:3 (2), tcp:16493:4 (2), tcp:16493:5 (2), tcp:16493:6 (2), tcp:16493:7 (2), tcp:16493:8 (2), tcp:16493:9 (2), tcp:16493:10 (2), tcp:16493:11 (2), tcp:16493:12 (2), tcp:16493:13 (2), tcp:16493:14 (2), tcp:16493:15 (2), tcp:16493:16 (2), tcp:16493:17 (2), tcp:16493:18 (2), tcp:16493:19 (2), tcp:16493:20 (2), tcp:16493:21 (2), tcp:16493:22 (2), tcp:16493:23 (2), tcp:16493:24 (2), tcp:16493:25 (2), tcp:16493:26 (2), tcp:16493:27 (2), tcp:16493:28 (2), tcp:16493:29 (2), tcp:16493:30 (2), tcp:16493:31 (2), tcp:16493:32 (2), tcp:16493:33 (2), tcp:16493:34 (2), tcp:16493:35 (2), tcp:16493:36 (2), tcp:16493:37 (2), tcp:16493:38 (2), tcp:16493:39 (2), tcp:16493:40 (2), tcp:16493:41 (2), tcp:16493:42 (2), tcp:16493:43 (2), tcp:16493:44 (2), tcp:16493:45 (2), tcp:16493:46 (2)  •  @__rendition__ (3) : simple:additions (3)|
+|20.|__postscript__|1||
+|21.|__q__|5||
+|22.|__seg__|3| @__rend__ (3) : decorInit (3)|
+|23.|__signed__|2||
+|24.|__text__|2| @__xml:lang__ (2) : eng (0)|
+|25.|__trailer__|1||
